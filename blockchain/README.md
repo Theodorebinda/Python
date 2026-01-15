@@ -1,6 +1,6 @@
-1| # Blockchain
-2| 
-3| Une blockchain est un type de technologie de **registre distribué** (DLT) qui consiste en une liste croissante d'enregistrements, appelés **blocs**, qui sont liés entre eux de manière sécurisée à l'aide de la **cryptographie**.
+# Blockchain
+
+Une blockchain est un type de technologie de **registre distribué** (DLT) qui consiste en une liste croissante d'enregistrements, appelés **blocs**, qui sont liés entre eux de manière sécurisée à l'aide de la **cryptographie**.
 4| 
 5| Détailons les terminologies de la définition ci‑dessus. Nous trouvons les termes suivants,
 6| 

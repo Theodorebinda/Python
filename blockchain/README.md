@@ -25,14 +25,14 @@ Cela signifie donc que même si l'information est altérée dans une agence, nou
 *Est‑ce nécessaire que tous les nœuds aient accès à toutes les informations des autres nœuds ? Ne faudrait‑il pas alors un espace de stockage énorme sur chaque nœud ?*
 
 ## Blocs
-28| 
-29| En bref, un bloc n'est rien d'autre qu'une collection d'enregistrements avec un en‑tête étiqueté. Ceux‑ci sont reliés cryptographiquement. Une fois qu'un nouveau bloc est ajouté à une chaîne, le bloc précédent est connecté, plus pr[...]
-30| 
-31| ## Cryptographie
-32| 
-33| C'est la pratique et l'étude des techniques de communication sécurisée en présence d'acteurs la est la plus utilisée dans la blockchain et pourquoi ?*
-36| 
-37| Ainsi, en général, la technologie blockchain est un registre distribué qui enregistre des informations sur la propriété d'un actif. Pour définir précisément,
+
+En bref, un bloc n'est rien d'autre qu'une collection d'enregistrements avec un en‑tête étiqueté. Ceux‑ci sont reliés cryptographiquement. Une fois qu'un nouveau bloc est ajouté à une chaîne, le bloc précédent est connecté, plus pr[...]
+
+## Cryptographie
+
+C'est la pratique et l'étude des techniques de communication sécurisée en présence d'acteurs la est la plus utilisée dans la blockchain et pourquoi ?*
+
+Ainsi, en général, la technologie blockchain est un registre distribué qui enregistre des informations sur la propriété d'un actif. Pour définir précisément,
 38| > La blockchain est un registre distribué et immuable qui facilite l'enregistrement des transactions et le suivi des actifs dans un réseau d'entreprise.
 39| Un actif peut être tangible (comme une maison, une voiture, de l'argent liquide ou un terrain) ou intangible (comme une entreprise) (propriété intellectuelle, brevets, droits d'auteur, image de marque). Un réseau blockchain peut suivre et vendre [...]
 

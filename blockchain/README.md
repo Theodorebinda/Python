@@ -1,45 +1,44 @@
-# Blockchain
-
-A Blockchain is a type of **distributed ledger** technology (DLT) that consists of growing list of records, called **blocks**, that are securely linked together using **cryptography**.
-
-Let's breakdown the terminologies in the above definition. We find below terminologies,
-
-- Digital Ledger Technology (DLT)
-- Blocks
-- Cryptography
-
-## Digital Ledger Technology
-
- It is otherwise called as distributed ledger technology. It is simply the opposite of centralized database. Firstly, what is a **ledger**? A ledger is a book or collection of accounts that records account transactions.
-
- *Why is Blockchain addressed as digital ledger if it can record more than account transactions? What other transaction details and information can it hold?*
-
-Digital Ledger Technology is just a ledger which is shared among multiple nodes. This way there exist no need for central authority to hold the info. Okay, how is it differentiated from central database and what are their benefits?
-
-There is an organization which has 4 branches whose data are stored in a centralized database. So even if one branch needs any data from ledger they need an approval from database in charge. And if one hacks the central database he gets to tamper and control all the data.
-
-Now lets assume every branch has a copy of the ledger and then once anything is added to the ledger by anyone branch it is gonna automatically reflect in all other ledgers available in other branch. This is done using Peer-to-peer network.
-
-So this means even if information is tampered in one branch we can find out. If one branch is hacked we can be alerted ,so we can safeguard other branches. Now, assume these branches as computers or nodes and the ledger is a transaction record or digital receipt. If one ledger is hacked in a node we can detect since there will be a mismatch in comparison with other node information. So this is the concept of Digital Ledger Technology.
-
-*Is it required for all nodes to have access to all information in other nodes? Wouldn't this require enormous storage space in each node?*
-
-## Blocks
-
-In short a block is nothing but collections of records with a labelled header. These are connected cryptographically. Once a new block is added to a chain, the previous block is connected, more precisely said as locked and hence, will remain unaltered. We can understand this concept once we get a clear understanding of working mechanism of blockchain.
-
-## Cryptography
-
-It is the practice and study of secure communication techniques in the midst of adversarial behavior. More broadly, cryptography is the creation and analysis of protocols that prevent third parties or the general public from accessing private messages.
-
-*Which cryptography technology is most widely used in blockchain and why?*
-
-So, in general, blockchain technology is a distributed record holder which records the information about ownership of an asset. To define precisely,
-> Blockchain is a distributed, immutable ledger that makes it easier to record transactions and track assets in a corporate network.
-An asset could be tangible (such as a house, car, cash, or land) or intangible (such as a business) (intellectual property, patents, copyrights, branding). A blockchain network can track and sell almost anything of value, lowering risk and costs for everyone involved.
-
-So this is all about introduction to blockchain technology. To learn more about the topic refer below links....
-* <https://en.wikipedia.org/wiki/Blockchain>
-* <https://en.wikipedia.org/wiki/Chinese_remainder_theorem>
-* <https://en.wikipedia.org/wiki/Diophantine_equation>
-* <https://www.geeksforgeeks.org/modular-division/>
+1| # Blockchain
+2| 
+3| Une blockchain est un type de technologie de **registre distribué** (DLT) qui consiste en une liste croissante d'enregistrements, appelés **blocs**, qui sont liés entre eux de manière sécurisée à l'aide de la **cryptographie**.
+4| 
+5| Détailons les terminologies de la définition ci‑dessus. Nous trouvons les termes suivants,
+6| 
+7| - Technologie de registre distribué (DLT)
+8| - Blocs
+9| - Cryptographie
+10| 
+11| ## Technologie de registre distribué
+12| 
+13| Elle est aussi appelée technologie de registre distribué. C'est simplement l'opposé d'une base de données centralisée. D'abord, qu'est‑ce qu'un **registre** ? Un registre est un livre ou une collection de comptes qui enregistre[...]
+14| 
+15| *Pourquoi la blockchain est‑elle qualifiée de registre numérique si elle peut enregistrer plus que des transactions comptables ? Quels autres détails de transaction et informations peut‑elle contenir ?*
+16| 
+17| La technologie de registre distribué est simplement un registre partagé entre plusieurs nœuds. De cette manière, il n'est pas nécessaire qu'une autorité centrale conserve l'information. OK, en quoi cela se différencie‑t‑il d'une base de données centrale ?[...]
+18| 
+19| Il y a une organisation qui a 4 agences dont les données sont stockées dans une base de données centralisée. Donc même si une agence a besoin de données du registre, elle a besoin d'une approbation du responsable de la base de données. Et i[...]
+20| 
+21| Maintenant, supposons que chaque agence ait une copie du registre et que dès que quelque chose est ajouté au registre par n'importe quelle agence, cela se reflète automatiquement dans tous les autres registres disponibles dans les autres agenc[...]
+22| 
+23| Cela signifie donc que même si l'information est altérée dans une agence, nous pouvons le détecter. Si une agence est piratée, nous pouvons être alertés, afin de protéger les autres agences. Maintenant, supposez que ces agences soient des ordinateurs [...]
+24| 
+25| *Est‑ce nécessaire que tous les nœuds aient accès à toutes les informations des autres nœuds ? Ne faudrait‑il pas alors un espace de stockage énorme sur chaque nœud ?*
+26| 
+27| ## Blocs
+28| 
+29| En bref, un bloc n'est rien d'autre qu'une collection d'enregistrements avec un en‑tête étiqueté. Ceux‑ci sont reliés cryptographiquement. Une fois qu'un nouveau bloc est ajouté à une chaîne, le bloc précédent est connecté, plus pr[...]
+30| 
+31| ## Cryptographie
+32| 
+33| C'est la pratique et l'étude des techniques de communication sécurisée en présence d'acteurs la est la plus utilisée dans la blockchain et pourquoi ?*
+36| 
+37| Ainsi, en général, la technologie blockchain est un registre distribué qui enregistre des informations sur la propriété d'un actif. Pour définir précisément,
+38| > La blockchain est un registre distribué et immuable qui facilite l'enregistrement des transactions et le suivi des actifs dans un réseau d'entreprise.
+39| Un actif peut être tangible (comme une maison, une voiture, de l'argent liquide ou un terrain) ou intangible (comme une entreprise) (propriété intellectuelle, brevets, droits d'auteur, image de marque). Un réseau blockchain peut suivre et vendre [...]
+40| 
+41| Voilà pour l'introduction à la technologie blockchain. Pour en savoir plus sur le sujet, consultez les liens ci‑dessous....
+42| * <https://en.wikipedia.org/wiki/Blockchain>
+43| * <https://en.wikipedia.org/wiki/Chinese_remainder_theorem>
+44| * <https://en.wikipedia.org/wiki/Diophantine_equation>
+45| * <https://www.geeksforgeeks.org/modular-division/>
+46| 
